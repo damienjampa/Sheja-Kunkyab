@@ -756,12 +756,230 @@ A ce sujet, la Science de l’enseignement (de Vasubhandu) précise comment il c
 ###### 3 LA MAITRISE DE L’ATTITUDE DE L’ENSEIGNANT
 Vertueux par ses trois portes (corps, parole et esprit), l’enseignant est digne du respect de tous. Grâce à cela, il maîtrise sa propre conduite. Il connaît également parfaitement la conduite de ses disciples, et fonde son enseignement sur sa connaissance approfondie de leurs capacités, affinités et potentialités. C’est ce qui donne tout son sens à son enseignement.
 
-10/21.12 LA CARACTERISTIQUE DE L’INTENTION BIENVEILLANTE
+##### 2 LA CARACTERISTIQUE DE L’INTENTION BIENVEILLANTE
 
-les deux types de bienveillance….
+>> les deux types de bienveillance….
 
-L’idéal est d’avoir la compassion qui aspire à mener tous les êtres au grand éveil. S’il en est dépourvu, l’enseignant doit absolument posséder une compassion basée sur la maîtrise de ce qu’il enseigne et l’intention que cet enseignement soit bénéfique, sans s’intéresser aux biens matériels. 
+L’idéal est d’avoir la compassion qui aspire à mener tous les êtres au grand éveil. S’il en est dépourvu, l’enseignant doit absolument posséder une compassion basée sur la maîtrise de ce qu’il enseigne et l’intention que cet enseignement soit bénéfique, sans s’intéresser aux biens matériels. Ce faisant, son enseignement deviendra la voie du dharma. Au contraire, s’il n’agit pas pour le bien d’autrui et qu’il s’intéresse aux biens matériels, son enseignement sera corrompu et reviendra à vendre le dharma.
+
+##### 3 LA CARACTERISTIQUE DE LA PATIENCE
+
+>> ainsi que les trois patiences…
+
+Grâce aux trois formes de patience, l’enseignant aura la capacité de prendre en charge ses disciples. Ce sont : la patience de ne pas se décourager face à la fatigue et aux difficultés rencontrées lors de l’enseignement ; la patience face aux questions des disciples ; et la patience face aux réfutations émises par d’autres personnes, tout en sachant y répondre. S’il est pourvu de toutes ces qualités, l’enseignant sera plaisant à écouter et attrayant pour son entourage,
+comme le confirme l’Ornement des soutras :
+
+> Doté d’une bonne intelligence, inlassable et bienveillant,
+> Très renommé et connaisseur des bonnes méthodes,
+> Tel est le bodhisattva qui sait enseigner de façon excellente,
+> Car, par son enseignement, il rayonne tel un soleil pour l’humanité.
+
+#### 2 L’EXPOSE SUR LES METHODES D’ENSEIGNEMENT
+Il se divise en deux sous-parties : une présentation générale et une autre, plus détaillée.
+
+##### 1 PRESENTATION GENERALE : LES SIX PORTES DE L’ENSEIGNEMENT
+
+>> Il enseigne via les six portes de l’enseignement, ou encore,
+
+Selon le Condensé de l’abhidharma, l’enseignement se fait au travers de six « portes » : les sujets à connaître dans leur intégralité, leur signification, les origines de cette connaissance, leur connaissance dans sa totalité,  le résultat de cette connaissance et la connaissance suprême.On peut aussi envisager douze « portes »: la « porte qui rassemble les enseignements détaillés » et les suivantes .
+Selon certains textes, l’enseignant traite du sujet sous trois aspects : le propos lui-même, le résumé de sa signification et le sens des mots.Dans d’autres textes, il enseigne selon deux aspects seulement : le sens général et le sens détaillé. 
+On trouve chez Chimpa :
+
+> Ainsi, il expose le sens, enseigne le texte et amène la certitude.
+
+> Premièrement, l’enseignant transmet le sens brut du texte étudié en explicitant les sources reliées à ce texte, le but dans lequel il a été écrit et le sujet dont il traite. C’est seulement après la compréhension de ces trois points que le dharma aura un effet positif sur les disciples.
+> Deuxièmement, poursuit Chimpa, l’enseignant explique les différentes sections de l’ensemble du texte pour permettre aux disciples d’en appréhender les spécificités essentielles ; il éclaircit également pour eux les subtilités du texte tout en éliminant leurs doutes. Ce faisant, il s’applique  à exposer le sens littéral et le sens induit. Cela aura pour effet de permettre aux disciples l’acquisition de la maîtrise des termes du dharma.
+> Chimpa termine par ce troisième point : Même si les disciples ont compris le sens d’un texte, il se peut qu’ils ne soient pas en mesure de réfuter d’éventuels contradicteurs. Dans ce cas, l’enseignant procèdera ainsi : il leur proposera une compréhension erronée de ce qu’il vient d’enseigner et leur dira : “ce que je viens d’affirmer à l’instant comporte en fait une contradiction, ou bien est redondant, ou encore infondé”. Puis il leur donnera la bonne réponse, à même de clarifier cette mauvaise compréhension. Il dissipera aussi leurs doutes relatifs au sens induit d’autres citations et raisonnements.C’est de cette manière que les disciples affermiront leur certitude quant au sens du texte étudié.
+
+##### 10/21.22 PRESENTATION DETAILLEE
+
+>> L’enseignant commence par exposer le sens général du texte puis son sens spécifique.
+>> Puis il fait les deux présentations condensées qui possèdent les six qualités.
+>> Il explicite ensuite le sens des mots, la relation entre objet, acteur et action ainsi que l’étymologie des termes employés.
+>> Il explicite les deux types de connexions afin de clarifier la compréhension et d’établir des relations.
+>> Enfin il confirme le sens en répondant aux objections par l’usage de citations et de raisonnements.
+
+Figurant dans la Science de l’enseignement, cette méthode d’enseignement est la plus répandue de nos jours.
+
+###### 1 EXPOSER LE SENS DU TEXTE
+Elle préconise que l’enseignant commence par exposer les bienfaits qu’il y a à écouter l’explication du sens (l’intention) général du texte. Il captera ainsi l’attention des auditeurs. Il exposera ensuite le sens détaillé (l’intention plus spécifique du texte) pour expliquer la relation avec le sujet enseigné.
+
+###### 2 LA METHODE DE PRESENTATION CONDENSEE
+Il existe deux types de présentation condensée : le résumé du sens littéral et le résumé de chaque partie.
+
+###### A LE RESUME DU SENS LITTERAL
+Cela consiste à dire : « ceci est le sens littéral du texte », puis à exposer, dans l’ordre, les différents sujets qui y sont enseignés. Même s’ils ne figurent pas dans le texte étudié, on peut si besoin y ajouter des citations et des raisonnements provenant d’autres sources. Pour commencer, il convient donc de proposer un condensé du sens littéral, facile à comprendre et à mémoriser.
+
+###### B LE RESUME DE CHAQUE PARTIE
+Afin de donner une idée d’ensemble de l’intégralité du texte, on l’expose dans ses grandes lignes, on énumère exactement toutes ses sous-parties et on explique sans les mélanger les points que chacune d’elles contient. Ce faisant, le résumé du sens général s’avèrera très pertinent et son sens détaillé facile à comprendre. A cette qualité d’accessibilité et de pertinence, s’en ajoutent cinq autres : l’usage de mots clairs, une expression facile à comprendre, facile à retenir, concise, et un niveau de langage constant. Telles sont les « six qualités de l’enseignement ». En bref, celui qui sait rendre son exposé facile à comprendre et plaisant, tant pour l’auditoire que pour lui-même, peut être considéré comme un expert en la matière.
  
+###### 3 LE SENS DES MOTS
+En sanskrit, le sens des mots est enseigné en référence à celui qui agit, l’action et l’objet de l’action, complété entre autres par l’ajout de suffixes.
+En tibétain, on part de ce qui est enseigné, de ce qui l’explique et de la façon dont on l’explique. Tels sont les trois axes de l’enseignement.
+Pour expliciter le sens des mots, l’enseignant commencera par s’appuyer sur leur configuration (les sons ou les mots eux mêmes) et, pour ce faire, il devra bien connaître la terminologie commune des syllabes, mots et phrases telle qu’on la retrouve dans l’Abhidharma. Il devra aussi connaître en détail la terminologie des syllabes, mots et phrases tels qu’on les trouve dans les traités consacrés aux synonymes, à la grammaire et à d’autres domaines.
+Parce qu’il est expert en ces matières, l’enseignant présentera les différentes composantes des phrases sans les mélanger. Puis, il exposera tous les sujets abordés dans le texte, sans rien omettre, ni ajouter, et sans erreur.
+
+###### 4 DEUX PRECISIONS CONCERNANT LES CONNEXIONS
+
+###### A La connexion entre les mots
+L’enseignant doit expliquer de façon abordable les liens entre les mots ou les segments de phrase. En effet, dans certains cas, l’explication d’un premier mot ne permet pas la compréhension du mot ou groupe de mots suivant. Parfois, elle permet cette compréhension, mais sans pour autant être très claire. Et même si les rapports entre les éléments sont clairs, certains liens peuvent rester obscurs.
+
+###### B La connexion entre les idées du texte
+L’enseignant analyse les liens sémantiques qui articulent les différentes parties du texte en annonçant par exemple, « après l’avoir résumé, je vais vous expliquer le texte en détail ». Ou alors, il peut mettre en évidence les éléments du texte qui s’opposent et ceux qui se confortent, ou bien il peut exposer ce qui est à abandonner et l’antidote correspondant, ou encore, il peut montrer les relations de cause à effet qui sous-tendent les différentes parties du texte, etc.
+
+###### 5 LA REPONSE AUX OBJECTIONS
+Si le disciple a des difficultés à comprendre certains points du texte, l’enseignant devra répondre à ses questions comme : « Ceci n’est-il pas contradictoire avec cela  ? Qu’en est-il ?», sans contredire les sources scripturaires ni les raisonnements. Ayant ainsi clarifié les réfutations et investigué le sens, il affermira la compréhension du disciple
+
+#### 3 LA MANIERE D’ENSEIGNER
+
+>> Pour ceux dotés d’une grande intelligence, donnez un enseignement profond et vaste, Pour ceux à l’intelligence moindre, donnez un enseignement d’abord facile à mémoriser
+>> Et à comprendre. Par la suite, enseignez-leur de manière subtile et détaillée en expliquant les contradictions et les correspondances, tout en réfutant les doutes.
+>> Encouragez ceux qui se découragent et dissipez l’agitation et la torpeur.
+
+Pour les disciples d’une grande intelligence, dotés de facultés aiguisées, introduisez-les au sens profond et vaste en usant d’un langage soigné avec des mots recherchés et riches de sens.
+Pour les disciples d’intelligence et de capacités moindres, enseignez-leur le sens facile à comprendre et agréable à entendre en usant de mots faciles à retenir et à assimiler. Puis, dès qu’ils parviennent un tant soit peu à relier les mots à leur signification et à mener des analyses, exposez-leur subtilement et en détail le sujet traité. Ce faisant, enseignez-leur de façon à couper court à leurs incertitudes à propos des liens ou des contradictions entre le sens et la lettre.
+A ceux qui pensent être d’intelligence insuffisante, ou trop vieux, ou d’espérance de vie limitée, à ceux qui pensent être incapables d’écouter et de méditer ou qui en ont la capacité, mais estiment ne plus en avoir le temps, il convient d’enseigner l’histoire du noble Shudapanthaka . Rappelez-leur aussi quelques citations  propres à leur remonter le moral comme :
+
+> Entraînez votre intelligence, même si vous veniez à mourir demain :
+> Dans cette vie, vous ne serez peut être pas très érudit,
+> Mais, dans la suivante, cette intelligence vous reviendra
+> Tel un joyau laissé entre de bonnes mains.
+
+A ceux qui s’attachent aux activités de cette vie, sont distraits par les plaisirs sensuels, et sont très agités, parlez d’impermanence et enseignez les défauts de ces plaisirs sensoriels ainsi que l’horreur des mondes inférieurs, etc. Faites que de cette manière leur esprit se tourne vers le dharma.
+A ceux qui sont tombés sous l’emprise de la torpeur et du sommeil, etc., détournez-les de ces défauts en leur en exposant de manière appropriée leurs inconvénients, ou en leur racontant des histoires extraordinaires.
+ 
+### 2 L’ECOUTE RESPECTUEUSE DE L’ENSEIGNEMENT PAR LE DISCIPLE
+
+>> Abandonne les trois défauts du réceptacle et les six impuretés, etc.
+>> Etablis-toi dans le concept de malade, remède et médecin.
+
+Au sujet des trois défauts, voici ce que dit un soutra (le soutra du grand véhicule appelé Questions de Maîtreya) :
+
+> Ecoute de façon excellente, complètement et de manière à retenir : alors je t’enseignerai.
+
+Ces paroles montrent comment écouter, débarrassé des trois défauts d’un réceptacle.
+« Ecoute de façon excellente »: cela revient à corriger le défaut du réceptacle renversé. L’eau ne peut pénétrer un tel récipient ; de la même manière, lorsqu’on écoute un enseignement, si on ne s’intéresse pas au dharma, si l’esprit vagabonde ailleurs ou si on sombre dans la torpeur et le sommeil, l’esprit restera enfermé sur lui-même. Ainsi est-il dit : "Abandonne l’inattention pour le dharma, et écoute-le !"
+« Ecoute complètement »: cela revient à corriger le défaut du réceptacle souillé. En effet, de même qu’un liquide de qualité versé dans un récipient souillé, ne sera d’aucune utilité, écouter le dharma avec un esprit empreint des souillures des émotions perturbatrices ne sera bénéfique ni à lui-même, ni à celui d’autrui. Ainsi est-il dit : "Après avoir abandonné les pensées empreintes d’émotions perturbatrices, comme l’orgueil ou l’absence de foi, écoute !"
+« Ecoute en faisant en sorte de retenir »: cela revient à corriger le défaut du récipient à fond percé. En effet, de même qu’un liquide de qualité ne reste pas dans un récipient percé, quand on s’ennuie en écoutant le dharma, qu’on ne prête pas attention aux mots, cela n’est d’aucune utilité. Ainsi est-il dit : "Préserve-toi de l’ennui qui t’empêche de mémoriser et écoute avec assiduité !"
+Quant aux six impuretés, 
+la Science de l’enseignement nous dit :
+
+> Ecouter avec orgueil, avec absence de foi ,
+> Avec manque d’intérêt,
+> Distrait par ce qui se passe autour, l’esprit enfermé sur lui-même ,
+> Ou encore avec ennui ; voilà les souillures.
+
+On les énonce ainsi. Ces six impuretés sont comprises dans les trois défauts [précédemment expliqués].
+Quant à l’expression « etc. » (du texte racine), elle renvoie aux instructions sur ce qu’il faut abandonner et adopter.
+Dans ce même texte, il est également dit qu’il faut écouter le dharma en appliquant les seize antidotes aux treize défauts  et qu’on doit se libérer des six défauts suivants : les actions défectueuses ; l’absence d’inspiration ; le manque de considération ; un mauvais état d’esprit ; l’absence d’harmonie et enfin l’appréhension du sujet. Ce texte précise que les deux derniers défauts se divisent chacun en cinq sous-parties .
+Au moment d’écouter le dharma, on doit suivre les nombreux exemples donnés par l’Avataṃsaka soutra :
+
+> Vous êtes le malade, le dharma est le remède et le lama, le médecin.Ou bien : vous êtes le passager, le dharma est le bateau et le lama, le batelier.Ou encore : vous êtes le voyageur perdu, le dharma est la monture et le lama, le guide. Etablissez-vous dans ces idées ou d’autres du même type, et écoutez le dharma.
+
+### 3 ENSEIGNANT ET AUDITEUR S’APPLIQUENT AUX SIX VERTUS TRANSCENDANTES
+
+>> Tous deux pratiquent en accord avec les six vertus transcendantes.
+
+Au moment d’enseigner et d’écouter, l’enseignant et l’auditeur s’appliquent tous deux aux six vertus transcendantes. Elles consistent en ce qui suit : 1) Le don : on donne les mots du dharma d’un côté, et des offrandes matérielles ou non de l’autre, 2) La discipline : on abandonne ce qui empêche d’enseigner et d’écouter, 3) La patience : on supporte les pénibles efforts demandés au corps et à la parole, 4) L’effort enthousiaste : on l’applique à l’écoute et à l’enseignement, 5) La stabilité mentale : on garde l’esprit concentré sur le dharma, 6) La sagesse : on s’efforce de comprendre distinctement chaque mot et son sens.
+
+## 3 LES DEUX ACTIVITES CONCLUSIVES, CELLE DU MAITRE ET CELLE DU DISCIPLE
+
+### 1 L’ACTIVITE CONCLUSIVE DU MAITRE
+
+>> Ensuite, scellez en concluant par la demande de pardon et la dédicace.
+
+Après avoir enseigné le dharma, on demande pardon pour les erreurs commises : c’est la première des trois actions dignes d’un maître. Cette demande peut se faire avec la formule suivante, ou d’autres comparables et également appropriées: 
+
+> Me tenant en présence des bouddhas,
+> Je confesse tout méfait
+> Que j’ai pu commettre
+> Sous l’emprise de mon esprit confus.
+
+
+Vient ensuite la dédicace de la vertu pour obtenir l’éveil, avec une formule telle que :
+
+> Par ce mérite, puissé-je atteindre l’omniscience, etc.
+
+On peut aussi utiliser la formule du noble Asanga :
+
+> Par le mérite infini que j’ai obtenu,
+> Grâce à l’enseignement de ce trésor du dharma sacré du grand véhicule,
+> Puissent tous les êtres qui errent
+> Devenir un précieux réceptacle sans souillures pour ce dharma sacré.
+
+Par ces paroles ou d’autres comparables, faites de parfaites dédicaces et prières.
+En troisième vient le sceau de la non-référence. 
+L’Introduction à la voie médiane enseigne :
+
+> Vide de l’acte de donner, de l’objet donné et de celui qui reçoit
+> Est ce qu’on appelle la transcendance qui va au-delà du monde.
+
+Tel qu’il est dit ici, scellez par la sagesse qui ne conçoit pas la triple saisie.
+ 
+### 2 L’ACTIVITE CONCLUSIVE DU DISCIPLE
+
+>> Le disciple fait une offrande, récite la dédicace ainsi que les prières de souhaits et s’applique à la remémoration et à la vigilance.
+
+L’activité conclusive du disciple se divise en trois parties.
+Tout d’abord, l’offrande en remerciement : avec gratitude, on offre comme il convient des prosternations et un mandala de remerciement .
+Ensuite, la dédicace pour l’éveil : on la fait comme expliqué précédemment, à la différence près qu’on remplace dans la formule le mot « enseignement » par le mot « écoute ».
+Enfin, le maintien stable du rappel et de la vigilance, conformément aux indications de la Porte d’entrée dans le dharma :
+
+> Se rappelant le sens des mots, le disciple se rend dans un lieu isolé et –abandonnant la distraction, la torpeur, etc. –, il contemple encore et encore le dharma qu’il a écouté, le lit, l’écrit, pose toutes ses questions au lama. Après avoir ainsi complètement reçu le dharma, il réjouit le lama par l’expression de sa gratitude.
+ 
+
+
+## 4 LES BIENFAITS
+
+>> Infinis sont les bienfaits de l’écoute et de la contemplation, et les bienfaits des activités d’écouter, 
+>> D’enseigner, de retenir et de pratiquer en alternance.
+
+Les bienfaits généraux de l’écoute et de la réflexion sont détaillés dans les Différents aspects du vinaya :
+
+> On distingue cinq bienfaits à l’écoute attentive : la maîtrise de la connaissance des agrégats, celle de la connaissance des éléments, celle de la connaissance des sources d’apparition et de développement, celle de la connaissance de l’interdépendance et la capacité à enseigner les instructions sur ces sujets de façon autonome.
+
+C’est ce qu’enseignent de manière extensive les Jataka et d’autres textes.
+La Science de l’enseignement nous précise les bienfaits liés à l’écoute du dharma :
+
+> Le Bhagavan a énoncé les cinq bienfaits suivants qu’il y a à écouter du dharma : entendre ce que l’on n’a pas encore entendu, acquérir la maîtrise parfaite de ce que l’on a entendu, mettre fin aux doutes, acquérir une vue juste et une sagesse habile à comprendre les mots et le sens profond.
+
+Plus généralement, tous les soutras et tantras enseignent que les bienfaits qu’il y a à écouter le dharma sont inimaginables.
+Quant aux bienfaits d’enseigner, ils sont au nombre de trois : enseigner est la meilleure des offrandes au Bouddha, le meilleur des dons aux êtres, cela permet d’accroître le mérite et de développer les clairvoyances. On peut détailler une myriade de bienfaits qu’il y a à faire le don du dharma, par exemple, les vingt bienfaits cités dans le Soutra incitant à l’intention supérieure  et ceux figurant dans d’autres textes.
+
+Les bienfaits qu’il y a à retenir le dharma sont quant à eux exprimés ainsi dans le Soutra du Secret inconcevable des ainsi-allés :
+
+> Même si pendant dix millions d’éons,
+> Tous les bouddhas s’employaient à exposer
+> Le mérite qu’il y a à retenir le dharma sacré,
+> Ils n’en verraient pas la fin.
+
+Une immensité d’autres bienfaits sont aussi exposés par ailleurs. 
+Voici les bienfaits particuliers qu’il y a à écouter et enseigner le dharma du grand véhicule :
+A la base, l’écouter et l’enseigner éclipse la vertu du petit véhicule ; lors de la voie, il élimine tous les voiles sans exception ; le résultat, c’est l’obtention de la complète bouddhéité. Un grand nombre de citations le répètent.
+Pratiquer le dharma de la réalisation surpasse toutes les qualités précitées. En effet, le mérite lié au fait d’avancer ne serait-ce que de sept pas en direction d’un lieu isolé tout en ayant à l’esprit le non soi des phénomènes, est réputé inconcevable.
+Puisque prolonger l’écoute d’un enseignement sans le mettre en pratique n’a absolument aucun sens, les soutras mentionnent les vingt défauts – parmi d’autres – qu’il y a à se complaire dans l’expression orale du dharma. Inversement, si l’on pratique la discipline, les samadhis, etc., mais que l’on n’a pas étudié le dharma, on est comme un aveugle sur le chemin. Par conséquent, s’adonner simultanément à l’écoute et à la pratique constitue de loin l’attitude suprême. 
+L’Ornement des soutras nous dit en effet :
+
+> En faisant ainsi, aucune méditation yogique  n’est dénuée de sens, quelle qu’elle soit.
+> En faisant ainsi, aucun enseignement du Sougata n’est dénué de sens, quel qu’il soit.
+> Supposons que, par la seule écoute, on perçoive la signification, alors la méditation n’aurait pas de sens.
+> Supposons que, sans écouter, on puisse entrer en méditation ; alors, l’enseignement n’aurait pas de sens.
+
+Alterner l’enseignement et la pratique possède des qualités réputées incommensurables.
+En effet, le noble Nagarjuna a dit :
+
+> Du moment que l’on possède l’écoute
+> Suivie de la réflexion qui, à elles deux, font s’accroître la sagesse,
+> La méditation s’avèrera excellente.
+> Et c’est par l’excellence de celle-ci qu’on atteindra l’éveil insurpassable.
+
+Ainsi s’achève le commentaire de la première section, consacrée aux caractéristiques du maître et du disciple ainsi qu’à la manière d’enseigner et d’écouter le dharma sacré.
+
+
+
+
+ 
+
 
 
 
